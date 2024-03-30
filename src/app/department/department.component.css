@@ -1,0 +1,10 @@
+
+.modal{
+ z-index: 1055;
+}
+.btn-add{
+    background-color: #2199e8;
+}
+.ngx-pagination ul{
+    margin-top: 10px;
+}
